@@ -286,6 +286,7 @@ public class EnterVehicleDataPage {
 	public void validarEmailSuccess(String msg) throws InterruptedException {
 		int cont = 0;
 
+		
 		// Aguardando loading
 		while (driver.findElements(By.xpath("//h2[contains(text(), 'success')]")).isEmpty() && cont < 10) {
 			Thread.sleep(5000);
