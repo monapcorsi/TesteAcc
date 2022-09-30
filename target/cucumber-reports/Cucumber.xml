@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="73.837831">
-<testcase classname="Seguro Automotivo" name="Criar cotação de seguro automotivo" time="73.837831">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="74.116073">
+<testcase classname="Seguro Automotivo" name="Criar cotação de seguro automotivo" time="74.116073">
 <system-out><![CDATA[Dado que estou no site "http://sampleapp.tricentis.com/101/app.php".........passed
 Quando preencho o formulário na aba Enter Vehicle Data......................passed
 E pressiono o botão Next para a aba Insurant Data...........................passed
