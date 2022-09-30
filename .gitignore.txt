@@ -1,0 +1,13 @@
+.apt_generated_tests/
+.apt_generated/
+.idea/
+.vscode/
+.git/
+.project
+/bin/
+
+.classpath
+.project
+/target/
+.settings
+/debug.log
